@@ -78,45 +78,7 @@
 <img src="https://i.imgur.com/sBW6lEs.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>7. Set internal network for Linux</h2>
 
-
-<p align="center">
-<img src="https://i.imgur.com/fTb4kSn.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>8. Set internal network for Windows</h2>
-
-
-<p align="center">
-<img src="https://i.imgur.com/sES8GAo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>9. Set up Windows 10 Pro</h2>
-
-
-<p align="center">
-<img src="https://i.imgur.com/nFuj56x.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>10. Set static IP in Windows to 192.168.20.10</h2>
-
-
-<p align="center">
-<img src="https://i.imgur.com/PFdkv7U.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>11. Set static IP in Linux to 192.168.20.11 > set Netmask at 24</h2>
-
-
-<p align="center">
-<img src="https://i.imgur.com/VqTS7B3.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
-<h2>12. Ping Linux from Windows to confirm both are connected | NOTE: if you try to ping from Linux at this point, it won't go through because the firewall is enabled for Windows. Don't disable as we need it running for Part 2, so just ping from Linux.</h2>
-<p align="center">
-<img src="https://i.imgur.com/35Zb42j.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
 
 
 <!--
