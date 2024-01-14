@@ -52,13 +52,13 @@
 <img src="https://i.imgur.com/fPSd5tD.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>3. Use Logic Chart - View Progression: Selecting Icons </h2>
+<h2>3. Use Logic Chart - View Progression: Selecting Icons: </h2>
 
 <p align="center">
 <img src="https://i.imgur.com/kRwjZay.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>4. Plotting First Lines & Labelling Accordingly</h2>
+<h2>4. Plotting First Lines & Labelling Accordingly:</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/qPHFJUb.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
@@ -71,7 +71,7 @@
 <img src="https://i.imgur.com/CoYQa8t.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>6. Complete Diagram</h2>
+<h2>6. Complete Diagram:</h2>
 
 
 <p align="center">
